@@ -1,0 +1,5 @@
+*.talk
+
+*.csv
+
+__pycache__
